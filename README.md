@@ -6,7 +6,8 @@ Currently on my way to finish my studies
 <a href="https://www.linkedin.com/in/lev-pozniakoff-522263145/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
 
-
+## Stats !
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pozniako16)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
