@@ -1,4 +1,4 @@
-https://img.shields.io/github/followers/pozniako16?style=social
+![GitHub followers](https://img.shields.io/github/followers/pozniako16?style=social)
 # Hi there 🧐 👋
 
 Currently on my way to finish my studies
