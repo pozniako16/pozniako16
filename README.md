@@ -5,7 +5,7 @@ Currently on my way to finish my studies
 <a href="https://www.linkedin.com/in/lev-pozniakoff-522263145/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
 ## What I code
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<#0078D6>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=#0078D6&logoColor=white&color=2bbc8a)
 
 
 
