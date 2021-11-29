@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Currently on my way to finish my studies
+
+<a href="https://www.linkedin.com/in/lev-pozniakoff-522263145/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+
 <!--
 **pozniako16/pozniako16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
