@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 🧐 👋
 
 Currently on my way to finish my studies
 
