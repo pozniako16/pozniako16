@@ -4,6 +4,12 @@ Currently on my way to finish my studies
 
 <a href="https://www.linkedin.com/in/lev-pozniakoff-522263145/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
+## What I code
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+
+
+
 <!--
 **pozniako16/pozniako16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
