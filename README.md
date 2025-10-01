@@ -1,7 +1,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/pozniako16?style=social) :(
 # Hi there 🧐 👋
-
-Junior DevOps Engineer not really active on github
+Software Engineer not really active on github
 
 <a href="https://www.linkedin.com/in/lev-pozniakoff-522263145/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
